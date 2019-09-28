@@ -1,0 +1,40 @@
+.landing_page
+{
+	background-image: url("../images/drop.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.landing_page
+{
+	background-image: url("../images/drop.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+li.nav-item {
+    padding-left: 3px; 
+    padding-right: 3px; 
+}
+
+nav.navbar.navbar-expand-lg.navbar-light.bg-light {
+	padding: 0px; 
+}
+
+/*.navbar-brand .menu_last {*/
+.menu_last{
+	background-color: yellow;
+}
+
+/*li.nav-item:last-child {
+    background-color: yellow;
+}*/
+
+.menu_format
+{
+	font-size:20px;
+	font-weight:600;
+}
+
+/*li.nav-item {
+    padding-right: 20px;
+}*/
